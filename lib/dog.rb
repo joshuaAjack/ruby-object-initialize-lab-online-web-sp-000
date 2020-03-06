@@ -23,3 +23,5 @@ class Dog
     @breed
   end
 end
+
+Dog.new("Mutt")
